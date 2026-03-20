@@ -1,0 +1,6 @@
+numpy>=1.21
+torch>=1.13
+tiktoken>=0.3
+datasets>=2.10
+transformers>=4.28
+wandb>=0.15
